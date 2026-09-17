@@ -17,7 +17,7 @@ function Home() {
       </div>
       <h2 className="mt-8 text-2xl font-bold text-slate-800">ดูหนังเพิ่มเติม</h2>
       <div className="mx-auto mt-8 max-w-md">
-        <MovieGallery />
+        <MovieGallery/>
       </div>
     </div>
   );
